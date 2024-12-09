@@ -12,7 +12,7 @@ import 'package:razorpay_flutter/razorpay_flutter.dart';
 import '../../AppRoutes/App_Routes.dart';
 import '../../Components/forms.dart';
 import '../../Modal/SelectedChefResponseModal.dart';
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class BookAppointmentScreenController extends GetxController{
   TextEditingController currentDateController = TextEditingController();

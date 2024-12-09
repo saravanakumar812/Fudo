@@ -5,7 +5,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'AppRoutes/App_Pages.dart';
 import 'AppRoutes/App_Routes.dart';
 import 'UI/LoginScreens/LoginScreen.dart';
-import 'Utlis/AppPreference.dart';
+import 'Utils/AppPreference.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

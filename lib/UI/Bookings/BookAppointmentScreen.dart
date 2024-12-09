@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fudo/Controller/BookingsController/BookAppointmentScreenController.dart';
-import 'package:fudo/Utlis/theme.dart';
+import 'package:fudo/Utils/theme.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../Components/forms.dart';
-import '../../Utlis/AppPreference.dart';
-import '../../Utlis/custom_image_view.dart';
-import '../../Utlis/image_constant.dart';
+import '../../Utils/AppPreference.dart';
+import '../../Utils/custom_image_view.dart';
+import '../../Utils/image_constant.dart';
 
 class BookAppointmentScreen extends GetView<BookAppointmentScreenController> {
   const BookAppointmentScreen({super.key});

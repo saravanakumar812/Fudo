@@ -1,12 +1,12 @@
 import 'package:fudo/Binding/BookingsBinding/BookAppointmentScreenBinding.dart';
 import 'package:fudo/Binding/BookingsBinding/BookingBinding.dart';
-import 'package:fudo/Binding/BottomNavBarBinding/BottomNavBarBiinding.dart';
+import 'package:fudo/Binding/BottomNavBarBinding/BottomNavBarBinding.dart';
 import 'package:fudo/Binding/HomeScreenBinding/HomeScreenBinding.dart';
 import 'package:fudo/Binding/LoginScreensBindings/Signup_with_Name_Screen_Binding.dart';
 import 'package:fudo/Binding/LoginScreensBindings/Signup_with_Phone_Screen_Binding.dart';
 import 'package:fudo/Binding/LoginScreensBindings/VerifyCodeScreenBinding.dart';
 import 'package:fudo/Binding/OrderScreenBinding/OrderScreenBinding.dart';
-import 'package:fudo/UI/Bookings/BookAppintmentScreen.dart';
+import 'package:fudo/UI/Bookings/BookAppointmentScreen.dart';
 import 'package:fudo/UI/Bookings/BookingScreens.dart';
 import 'package:fudo/UI/Bookings/BookingSuccessfullyScreen.dart';
 import 'package:fudo/UI/HomeScreen/HomeScreen.dart';

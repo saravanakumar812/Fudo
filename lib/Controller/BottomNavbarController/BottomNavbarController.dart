@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 
 import '../../AppRoutes/App_Routes.dart';
-import '../../Utlis/AppPreference.dart';
+import '../../Utils/AppPreference.dart';
 
 class BottomNavController extends GetxController {
   var currentIndex = 0.obs;

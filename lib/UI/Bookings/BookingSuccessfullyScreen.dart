@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../Controller/BookingsController/BookingSuccessfullyControllerScreen.dart';
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class BookingSuccessfullyScreen extends GetView<BookingSuccessfullyScreenController> {
   const BookingSuccessfullyScreen({super.key});

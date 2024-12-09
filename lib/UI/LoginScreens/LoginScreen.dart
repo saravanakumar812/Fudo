@@ -1,12 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fudo/Controller/LoginScreensController/LoginScreenController.dart';
-import 'package:fudo/Utlis/theme.dart';
+
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../AppRoutes/App_Routes.dart';
-import '../../Utlis/AppPreference.dart';
+import '../../Components/theme.dart';
+import '../../Utils/AppPreference.dart';
 
 class LoginScreen extends GetView<LoginScreenController> {
   const LoginScreen({super.key});

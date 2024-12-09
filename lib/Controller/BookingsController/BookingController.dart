@@ -12,7 +12,7 @@ import '../../Modal/CooksList.dart';
 import '../../Modal/HomeResponseModal.dart';
 import '../../Modal/OnlineCookList.dart';
 import '../../Modal/RestaurantsListModal.dart';
-import '../../Utlis/AppPreference.dart';
+import '../../Utils/AppPreference.dart';
 
 class BookingScreenController extends GetxController{
   TextEditingController emailController = TextEditingController();

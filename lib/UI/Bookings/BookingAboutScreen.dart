@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fudo/Utlis/theme.dart';
+import 'package:fudo/Utils/theme.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../AppRoutes/App_Routes.dart';
 import '../../Controller/BookingsController/BookingAboutScreenController.dart';
-import '../../Utlis/AppPreference.dart';
+import '../../Utils/AppPreference.dart';
 
 class BookingAboutScreen extends GetView<BookingAboutScreenController> {
   const BookingAboutScreen({super.key});

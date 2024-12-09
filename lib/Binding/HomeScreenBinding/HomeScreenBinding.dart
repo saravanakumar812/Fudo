@@ -2,7 +2,7 @@
 import 'package:fudo/Controller/LoginScreensController/LoginScreenController.dart';
 import 'package:get/get.dart';
 
-import '../../Controller/HomeScreenController/HomeScreenContoller.dart';
+import '../../Controller/HomeScreenController/HomeScreenController.dart';
 
 class HomeScreenBinding extends Bindings{
   @override

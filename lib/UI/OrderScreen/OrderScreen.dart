@@ -5,8 +5,8 @@ import 'package:google_fonts/google_fonts.dart';
 
 import '../../Components/forms.dart';
 import '../../Controller/OrderScreenController/OrderScreenController.dart';
-import '../../Utlis/AppPreference.dart';
-import '../../Utlis/theme.dart';
+import '../../Utils/AppPreference.dart';
+import '../../Utils/theme.dart';
 
 class OrderScreen extends GetView<OrderScreenController> {
   const OrderScreen({super.key});

@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../AppRoutes/App_Routes.dart';
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class SignupNameScreen extends GetView<SignupNameScreenController> {
   const SignupNameScreen({super.key});

@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../Utlis/theme.dart';
+import '../Utils/theme.dart';
 
 
 class TextInput extends StatefulWidget {

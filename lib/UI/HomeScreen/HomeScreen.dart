@@ -1,13 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fudo/AppRoutes/App_Routes.dart';
-import 'package:fudo/Controller/HomeScreenController/HomeScreenContoller.dart';
+import 'package:fudo/Controller/HomeScreenController/HomeScreenController.dart';
 import 'package:fudo/UI/Bookings/BookingSuccessfullyScreen.dart';
-import 'package:fudo/Utlis/AppPreference.dart';
+import 'package:fudo/Utils/AppPreference.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class HomeScreen extends GetView<HomeScreenController> {
   const HomeScreen({super.key});

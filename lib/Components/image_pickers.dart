@@ -8,7 +8,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
 // import 'package:untitled/Components/theme.dart';
 
-import '../Utlis/theme.dart';
+import '../Utils/theme.dart';
 import 'AppText.dart';
 
 

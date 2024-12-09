@@ -6,7 +6,7 @@ import 'package:fudo/Controller/LoginScreensController/Signup_with_Phone_Screen_
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class SignupPhoneScreen extends GetView<SignupPhoneScreenController> {
   const SignupPhoneScreen({super.key});

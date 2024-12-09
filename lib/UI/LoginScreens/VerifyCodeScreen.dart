@@ -7,7 +7,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 import '../../AppRoutes/App_Routes.dart';
 import '../../Components/OTPInput.dart';
-import '../../Utlis/theme.dart';
+import '../../Utils/theme.dart';
 
 class VerifyCodeScreen extends GetView<VerifyCodeScreenController> {
   const VerifyCodeScreen({super.key});
