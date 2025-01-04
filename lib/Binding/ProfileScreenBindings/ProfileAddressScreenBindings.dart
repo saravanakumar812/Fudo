@@ -4,7 +4,6 @@ import 'package:get/get_instance/src/bindings_interface.dart';
 
 
 import '../../Controller/ProfileScreenController/ProfileAddressScreen.dart';
-// import '../../Controllers/ProfileScreenController/ProfileAddressScreen.dart';
 
 
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fudo/UI/Bookings/BookingScreens.dart';
-import 'package:fudo/UI/Bookings/BookingSuccessfullyScreen.dart';
+
 import 'package:fudo/UI/OrderScreen/OrderScreen.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -25,6 +25,8 @@ class BottomNavBarScreen extends StatelessWidget {
   static const IconData restaurant = IconData(0xe532, fontFamily: 'MaterialIcons');
   static const IconData location_on = IconData(0xe3ab, fontFamily: 'MaterialIcons');
   static const IconData directions_car = IconData(0xe1d7, fontFamily: 'MaterialIcons');
+
+
 
   @override
   Widget build(BuildContext context) {

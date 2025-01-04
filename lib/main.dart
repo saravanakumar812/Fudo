@@ -28,9 +28,9 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-        initialRoute: AppRoutes.Login.toName,
+        initialRoute: AppRoutes.login.toName,
         getPages: AppPages.list,
-      home: LoginScreen()
+      home: const LoginScreen()
     );
   }
 }

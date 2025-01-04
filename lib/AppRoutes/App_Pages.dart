@@ -45,7 +45,7 @@ class AppPages {
   static var list = [
 
     GetPage(
-        name: AppRoutes.Login.toName,
+        name: AppRoutes.login.toName,
         page: () => const LoginScreen(),
         binding: LoginScreenBinding()),
     GetPage(

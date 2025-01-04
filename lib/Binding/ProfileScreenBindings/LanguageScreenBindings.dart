@@ -4,12 +4,6 @@ import 'package:get/get_instance/src/bindings_interface.dart';
 
 import '../../Controller/ProfileScreenController/languageScreenController.dart';
 
-
-
-// import '../../Controllers/ProfileScreenController/languageScreenController.dart';
-
-
-
 class LanguageScreenBindings extends Bindings{
   @override
   void dependencies() {

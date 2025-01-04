@@ -1,6 +1,6 @@
 enum AppRoutes {
   root,
-  Login,
+  login,
   signupName,
   signupPhone,
   verifyCode,
@@ -21,7 +21,7 @@ helpCenter
 extension AppRouteExtension on AppRoutes {
   static const appRoutes = {
     AppRoutes.root: "/",
-    AppRoutes.Login: "/Login",
+    AppRoutes.login: "/Login",
     AppRoutes.signupName:"/Signup_Name_Screen",
     AppRoutes.signupPhone:"/Signup_Phone_Screen",
     AppRoutes.verifyCode:"/VerifyCode",
